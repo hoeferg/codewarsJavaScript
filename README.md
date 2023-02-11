@@ -8,11 +8,11 @@
 
 ## Description
 
-These set of files is a running track on java code wars I have completed so far. These are saved to reflect upon as I grow in my career and see how far I have come.
+These set of files is a running track on JavaScript code wars I have completed so far. These are saved to reflect upon as I grow in my career and see how far I have come.
 
 ### Future Development
 
-This application will eventually hold the different levels I have completed in Java.
+This application will eventually hold the different levels I have completed in JavaScript.
 
 ## Deployed Application
 
