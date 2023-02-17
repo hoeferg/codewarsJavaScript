@@ -1,5 +1,7 @@
 # Codewars JavaScript
 
+<img src ="code.png" />
+
 ## Table of Contents  
 * [Description](##Description)  
 * [Installation](##Installation)  
